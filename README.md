@@ -13,7 +13,7 @@
     <a href="mailto:allen@airposture.pro">Report Bug or Request Feature</a>
   </p>
   <p align="center">
-  <a href="https://github.com/aIIenv0/AirPosture/releases/download/0.1/AirPosture.zip">
+  <a href="https://github.com/raftmarcus/airposture/releases/download/1.0.0/AirPosture-v1.zip">
     <img width="300" src="App-Assets/download.png">
   </a>
 </p>
